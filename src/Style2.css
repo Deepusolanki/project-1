@@ -1,0 +1,18 @@
+
+
+
+main{
+    height: 1000px;
+    border: 2px solid pink;
+}
+
+footer{
+    height: 150px;
+    border: 2px solid green;
+}
+
+.row > div{
+    border: 2px solid blue;
+}
+
+
